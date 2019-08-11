@@ -1,4 +1,4 @@
-# Google Homepage Imitation
+# Google search results imitation
 ## What's this?
 This is an HTML file that emulates the Google's homepage.
 ## How this was made?
